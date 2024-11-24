@@ -11,7 +11,6 @@ int main() {
 
 	auto window = ofCreateWindow(settings);
 
-	// ofSetupOpenGL()
 	ofRunApp(window, make_shared<ofApp>());
 	ofRunMainLoop();
 

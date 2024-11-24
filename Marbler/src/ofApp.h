@@ -1,14 +1,15 @@
 #pragma once
 
-#include "ofxOpenCv.h"
-
 #include "ofMain.h"
+#include "ofxOpenCv.h"
 
 #define WIDTH  (1280)
 #define HEIGHT (720)
 
 #define DISPLACE_X 0
 #define DISPLACE_Y 1
+
+#define constrain(val,min,max) ((val < min ? min : val) > max ? max : (val < min ? min : val))
 
 class ofApp : public ofBaseApp {
 private:
@@ -19,11 +20,17 @@ private:
 	ofPixels pixels;
 	ofTexture texture;
 
+	ofShader blurHorizontal, blurVertical;
+	ofFbo fbo1;
+	ofFbo fbo2;
+
 	int prevX = 0;
 	int prevY = 0;
 
 	uint32_t time = 0;
 	ofImage defaultImage;
+
+
 
 public:
 	void setup();
