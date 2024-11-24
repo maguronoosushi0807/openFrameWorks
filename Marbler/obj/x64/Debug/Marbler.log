@@ -1,0 +1,120 @@
+﻿  main.cpp
+  ofApp.cpp
+C:\openFrameworks\of_v0.12.0_vs_release\addons\ofxOpenCv\libs\opencv\include\opencv2\calib3d.hpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\main.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\main.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\main.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\main.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\main.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\main.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\main.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\main.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\main.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\addons\ofxOpenCv\libs\opencv\include\opencv2\calib3d.hpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\main.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\apps\myApps\Marbler\src\ofApp.cpp(10,14): warning C4996: 'ofImage_<unsigned char>::loadImage': Use load instead
+C:\openFrameworks\of_v0.12.0_vs_release\apps\myApps\Marbler\src\ofApp.cpp(60,44): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\openFrameworks\of_v0.12.0_vs_release\apps\myApps\Marbler\src\ofApp.cpp(54,2): warning C4996: 'ofRect': Use ofDrawRectangle instead
+  ofxCvColorImage.cpp
+  ofxCvContourFinder.cpp
+  ofxCvFloatImage.cpp
+  ofxCvGrayscaleImage.cpp
+  ofxCvHaarFinder.cpp
+  ofxCvImage.cpp
+  ofxCvShortImage.cpp
+C:\openFrameworks\of_v0.12.0_vs_release\addons\ofxOpenCv\libs\opencv\include\opencv2\calib3d.hpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvColorImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\addons\ofxOpenCv\libs\opencv\include\opencv2\calib3d.hpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvContourFinder.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\addons\ofxOpenCv\libs\opencv\include\opencv2\calib3d.hpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvFloatImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\addons\ofxOpenCv\libs\opencv\include\opencv2\calib3d.hpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\addons\ofxOpenCv\libs\opencv\include\opencv2\calib3d.hpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvShortImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\addons\ofxOpenCv\libs\opencv\include\opencv2\calib3d.hpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvGrayscaleImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvColorImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvContourFinder.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvFloatImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvShortImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvGrayscaleImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvColorImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvColorImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvContourFinder.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvContourFinder.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvFloatImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvFloatImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvGrayscaleImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvGrayscaleImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvShortImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvShortImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvColorImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvContourFinder.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvColorImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvContourFinder.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvColorImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvColorImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvContourFinder.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvColorImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvContourFinder.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvColorImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvContourFinder.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvContourFinder.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvFloatImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvFloatImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvShortImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvShortImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvFloatImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvFloatImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvFloatImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvFloatImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvShortImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvShortImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvShortImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvShortImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvGrayscaleImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvGrayscaleImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvGrayscaleImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvGrayscaleImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvGrayscaleImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvGrayscaleImage.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\addons\ofxOpenCv\libs\opencv\include\opencv2\calib3d.hpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp)
+C:\openFrameworks\of_v0.12.0_vs_release\addons\ofxOpenCv\src\ofxCvContourFinder.cpp(142,38): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\openFrameworks\of_v0.12.0_vs_release\addons\ofxOpenCv\src\ofxCvContourFinder.cpp(146,26): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\openFrameworks\of_v0.12.0_vs_release\addons\ofxOpenCv\src\ofxCvImage.cpp(849,69): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\openFrameworks\of_v0.12.0_vs_release\addons\ofxOpenCv\src\ofxCvImage.cpp(854,72): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\openFrameworks\of_v0.12.0_vs_release\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp(118,51): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\openFrameworks\of_v0.12.0_vs_release\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp(123,53): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\openFrameworks\of_v0.12.0_vs_release\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp(306,35): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+LINK : warning LNK4075: /INCREMENTAL は /FORCE の指定によって無視されます。
+  Marbler.vcxproj -> C:\openFrameworks\of_v0.12.0_vs_release\apps\myApps\Marbler\bin\Marbler_debug.exe
+  
+  	                   2	C:\openFrameworks\of_v0.12.0_vs_release\libs\fmod\lib\vs\x64\
+  	  新しいファイル		 1826304	C:\openFrameworks\of_v0.12.0_vs_release\libs\fmod\lib\vs\x64\fmod.dll
+  	  新しいファイル		 2041856	C:\openFrameworks\of_v0.12.0_vs_release\libs\fmod\lib\vs\x64\fmodL.dll
+  
+  	                   1	C:\openFrameworks\of_v0.12.0_vs_release\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1826304	C:\openFrameworks\of_v0.12.0_vs_release\apps\myApps\Marbler\bin\fmod.dll
+  	  *EXTRA File 		 2041856	C:\openFrameworks\of_v0.12.0_vs_release\apps\myApps\Marbler\bin\fmodL.dll
+  	  新しいファイル		 6942208	C:\openFrameworks\of_v0.12.0_vs_release\libs\FreeImage\lib\vs\x64\FreeImage.dll
